@@ -1,13 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 	<head>
-		<title>jQuery Mobile App</title>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.css" />
-		<script src="js/jquery.js"></script>
-		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
-		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>	
+		<?php require 'estilos.php'; ?>
+		<link rel="stylesheet" type="text/css" href="css/general.css">
 	</head>
 	<body>
 		<div data-role="page">
