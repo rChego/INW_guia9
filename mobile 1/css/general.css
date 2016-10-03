@@ -2,3 +2,53 @@
 	background-color: rgb(29, 29, 29);
 	cursor: default;
 }
+
+th {
+    border-bottom: 1px solid #d6d6d6;
+}
+
+tr {
+    border-bottom: 1px solid #d6d6d6;
+}
+
+td{
+    text-align: center;
+}
+
+#datos {
+	margin: 0 auto;
+    display: block;
+    width: 70%;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 1px solid lightgray;
+}
+
+#datos2{
+    margin: 0 auto;
+    display: block;
+    width: 60%;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    border: 1px solid lightgray;
+}
+
+#login {
+	margin: 0 auto;
+    display: block;
+    width: 35%;
+}
+
+.center-wrapper{
+  text-align: center;
+}
+.center-wrapper * {
+  margin: 0 auto;
+}
+
+.enlace{
+	text-decoration: none !important;
+	color: #000000;
+}
